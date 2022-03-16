@@ -1,0 +1,85 @@
+.background{
+	background: #e2ca67;
+}
+
+.main{
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	font-family: "FreeMono";
+	zoom: 1.1;
+}
+
+.entrance{
+	padding-top: 90px ; 
+	margin: 0.5%;
+	text-align: center;
+	font-size: 90px;
+	
+}
+
+.login-0{
+	padding-top: 90px ; 
+	text-align: center;
+	font-size: 60px;
+	zoom: .4;
+
+}
+
+
+.login-1{
+	text-align: center;
+	font-family: "FreeMono";
+	font-size: 69px;
+	width: 600px;
+}
+
+.password-0{
+	padding-top: 30px ; 
+	text-align: center;
+	font-size: 60px;
+	zoom: .4;
+
+}
+
+
+.password-1{
+	text-align: center;
+	font-family: "FreeMono";
+	font-size: 69px;
+	width: 600px;
+}
+
+
+.button-entrance-0{
+	text-align: center;
+	font-size: 50px;
+	padding-right: 160px;
+	padding-bottom: 100px;	
+	padding-top: 30px;
+
+}
+
+.button-entrance-1{
+	text-align: center;
+	font-family: "FreeMono";
+	zoom: 1.5;
+	
+}
+
+.button-registration-0{
+	text-align: center;
+	font-size: 50px;
+	padding-left: 130px;
+	margin: -179px 0px 10px -30px;
+
+}
+
+.button-registration-1{
+	text-align: center;
+	font-family: "FreeMono";
+	zoom: 1.5;
+	padding-right: 1px;
+	
+}
