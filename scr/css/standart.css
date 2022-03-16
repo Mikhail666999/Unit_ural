@@ -4,12 +4,38 @@
 
 }
 
+textarea:active {
+	outline:none;
+}:focus {outline:none;}
+
 .text-0{
 	text-align: center;
+	margin: 50px;
 
 }
 
 .text-1{
+	text-align: start;
 	width: 1000px;
 	height: 500px;
+	background: rgba( 0.0,0.0,0.0, 0);
+	resize: none;
+	border: none;
+	font-family: "FreeMono";
+	font-size: 20px;
 }
+
+.button-0{
+	margin-left: 96.5%;
+	margin-top: -500px;
+
+}
+
+.button-1{
+	background: #e2ca67;
+	zoom: .07;
+	border: 0;
+}
+
+
+/*Как мне плохо мне хочется сдохнуть да побыстрей... В общем сегодня день хуйня... Пойду спрыгну с окна...*/
